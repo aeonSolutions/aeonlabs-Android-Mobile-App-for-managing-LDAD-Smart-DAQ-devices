@@ -3,7 +3,6 @@
 
 Since last June 2021, amid Covid-19, I’ve been designing a live data acquisition device (LDAD) for monitoring of sensor data. It uses an Arduino board coupled with a custom PCB board, and commercially available Arduino shields.
 
-The first version of the LDAD is targeting monitoring of fresh concrete hardening by measuring its core temperature using a type K thermocouple, the environment temperature and relative humidity (SHT31 shield) allowing the calculation of concrete maturity at any given day. Collected data is stored locally on a SPI Flash memory chip (W25Q128) for later synchronization with the local network or connected device.
 
 The LDAD uses RFID NFC technology for fast identification and connection to nearby authorized devices, such as smartphones, tablets or any other that uses Bluetooth BLE or WiFi technologies. Custom software applications is being developed for handling and managing collected data from devices compatible with LDAD and in accordance to the latest guidelines on Open Data available at the European commission website and also following the latest guidelines available on open-source development and maintenance (see snapshot below of the Android App under development).
 
