@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+    <color name="black">#000</color>
+
+    <color name="card_right_blue">#1ABC9C</color>
+    <color name="card_right_purple">#9B59B6</color>
+
+    <color name="colorIconTintSelected">#fed776</color>
+    <color name="colorArchive">#2E7D32</color>
+    <color name="colorFrom">#000000</color>
+    <color name="colorDefaultWhite">#fafafa</color>
+    <color name="colorBackgroundCircleDefault">#666666</color>
+    <!-- Screens background color-->
+    <color name="bg_screen1">#8BC34A</color>
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#6F8A4F</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#99EA3C</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+    </array>
+</resources>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="share">Share</string>
+    <string name="rate_app">Rate This App</string>
+    <string name="bug">Submit Bug</string>
+
+    <string name="message">text</string>
+    <string name="dialog_title">Scan Code Result</string>
+    <string name="exit_title">Exit</string>
+    <string name="ok">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok_title">Ok</string>
+    <string name="scanned_code">code scanned</string>
+
+
+    <string name="scan_your_first">Scan your first Barcode or QR Code to see the information here.</string>]
+    <string name="camera_permission_granted">Camera Permission Granted.</string>
+    <string name="camera_permission_request">Camera permission is required for Barcode Scanning.</string>
+    <string name="sorry_for_not_permission">Sorry , We are not able to scan Barcode without your permission.</string>
+    <string name="swipe">Swipe Down To Refresh</string>
+    <string name="app_ad_id">ca-app-pub-2932652588490084~5264077465</string>
+    <string name="ad_unit_id">ca-app-pub-2932652588490084/2711610908</string>
+
+
+    <string name="app_name"><![CDATA[Enterprise Barcode Scanner]]></string>
+
+
+    <!--Intro slider texts -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="back">Back</string>
+    <string name="gotIt">Got It</string>
+    <string name="manual_entry">Manual entry</string>
+    <string name="qr_code_entry">use QR code</string>
+
+    <string name="slide_1_title">Welcome!</string>
+
+    <string name="slide_1_desc">
+        AeonLabs Cloud API barcode scanner allows anyone to scan a barcode or a QR code and send it to a cloud server API of your choice.
+        Check AeonLabs API documentation on how to set up the API on your server.
+    </string>
+
+    <string name="slide_2_title">Configure the Cloud API</string>
+    <string name="slide_2_desc">To begin, first, connect to your Cloud server API.</string>
+    <string name="slide_3_title">Anonymous Data, Always!</string>
+
+    <string name="slide_3_desc">
+        As part of AeonLAbs free services, you allow anonymous barcode data and location to be sent to AeonLabs\'s Open Data access Database.
+        This anonymized open data will help businesses and industries with anonymous data analytics.
+    </string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome
+        slider -> clear data
+    </string>
+    <string name="play_again">Play Again</string>
+
+    <!--Intro slider texts -->
+    <string name="dialog_cloud_url_hint">Type the Server web address without the final / </string>
+    <string name="dialog_clould_url_title">Cloud Server API Url </string>
+    <string name="dialog_clould_url_are_you_sure">Are you sure you want to add </string>
+    <string name="dialog_clould_url_msg">Connect to a Cloud Server API where the barcodes will be sent.</string>
+    <string name="dialog_clould_url_error">You need to type a valid url web address </string>
+    <string name="dialog_clould_url_qr_msg">Connect to a Cloud Server API where the barcodes will be sent. You need a valid QR code with The cloud server API web address.</string>
+
+</resources>
