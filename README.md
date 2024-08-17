@@ -1,5 +1,3 @@
- **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> [Open Source Code Software](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Mobile App for managing LDAD Smart DAQ devices
-
 [![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
 <a href="https://github.com/sponsors/aeonSolutions">
@@ -12,6 +10,8 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/aeonlabs-Android-Mobile-App-for-managing-LDAD-Smart-DAQ-devices.svg)
 
 
+ **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> [Open Source Code Software](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)  >>  Mobile App for managing LDAD Smart DAQ devices
+ 
 # [![CodeFactor](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices/badge)](https://www.codefactor.io/repository/github/aeonsolutions/aeonlabs-android-mobile-app-for-managing-ldad-smart-daq-devices) Mobile App for managing LDAD Smart DAQ devices
 **Current project Total: 320 work.h**
 
